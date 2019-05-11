@@ -20,7 +20,7 @@
 >主要负责和参与多个房东端SAAS系统和公司内部后台系统功能开发，项目全部实现前后端分离和Dubbo服务化，主要编写业务逻辑层和数据持久化层代码和UT，给App、Web端提供API，并且与其他项目组配合互相提供Dubbo API。数据库使用MariaDB，15年至16年经常为业务方提供报表，对SQL调优和数据结构设计有很多经验。任职期间获得过2次个人激励奖励，一次团队奖励，16年还获得了期权奖励。
 
 **开发工具和使用框架**  
->使用<font color=gray>maven</font>管理项目，<font color=gray>git</font>控制代码版本，使用<font color=gray>JDK8</font>语言，框架使用<font color=gray>Spring、Spring Boot、Spring MVC、Mybatis</font>，初始用<font color=gray>Jsp</font>，现在前后端分离，用<font color=gray>Dubbo</font>实现服务化，数据库为<font color=gray>MariaDB</font>，缓存使用<font color=gray>Redis</font>，开发工具是<font color=gray>IDEA</font>。
+>使用maven管理项目，git控制代码版本，使用JDK8语言，框架使用Spring、Spring Boot、Spring MVC、Mybatis，初始用Jsp，现在前后端分离，用Dubbo实现服务化，数据库为MariaDB，缓存使用Redis，开发工具是IDEA。
 
 ### 2014.3~2015.2 郑州凌风科技
 >在郑州一位老师带领的团队下做外包项目开发，主要使用Jsp实现各种增删改查。
