@@ -71,7 +71,7 @@
 >JDK8、Kafka、Spring、Spring MVC、Mybatis、Redis、Memcache、Git、Maven、Mysql、Dubbo、Nginx、Jsp
 
 ## 学历信息
->大专在读，19年下半年可提供郑州大学成教大专学历证书，后续准备自考本科。
+>当前学历中专，现大专在读，19年下半年可提供郑州大学成教大专学历证书，专业为软件工程。后续准备自考本科。
 
 ## 培训经历
 >2013～2014郑州北大青鸟软件培训机构，学习java和.net开发
